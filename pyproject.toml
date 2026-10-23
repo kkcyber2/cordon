@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cordon"
+version = "1.0.0"
+description = 'Authorization-logic analyser that finds IDOR/BOLA by synthesising differential request pairs from an OpenAPI spec.'
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "KK (Conan Sultan Khan)", email = "kkdev9715@gmail.com"}]
+keywords = ["cordon"]
+
+[project.urls]
+Homepage = "https://github.com/kkcyber2/cordon"
+Repository = "https://github.com/kkcyber2/cordon"
+
+[tool.setuptools]
+packages = ["cordon"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
