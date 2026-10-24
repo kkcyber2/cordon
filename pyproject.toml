@@ -9,7 +9,7 @@ description = 'Authorization-logic analyser that finds IDOR/BOLA by synthesising
 readme = "README.md"
 requires-python = ">=3.9"
 license = {text = "MIT"}
-authors = [{name = "KK (Conan Sultan Khan)", email = "kkdev9715@gmail.com"}]
+authors = [{name = "Konain Sultan Khan (KK)", email = "kkdev9715@gmail.com"}]
 keywords = ["cordon"]
 
 [project.urls]

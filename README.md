@@ -108,4 +108,4 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-Built by **KK (Conan Sultan Khan)** · [github.com/kkcyber2](https://github.com/kkcyber2) · kkdev9715@gmail.com
+Built by **Konain Sultan Khan (KK)** · [github.com/kkcyber2](https://github.com/kkcyber2) · kkdev9715@gmail.com
